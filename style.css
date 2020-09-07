@@ -80,7 +80,7 @@ img{
 }
 
 #active, #active-header{
-    color: yellow;
+    color: rgb(255, 255, 0);
 }
 
 #critical, #critical-header{
