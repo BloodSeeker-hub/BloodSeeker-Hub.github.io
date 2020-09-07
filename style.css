@@ -88,6 +88,10 @@ span{
         height: 100%;
         margin-bottom: 50px;
         width: 100%;
+
+    }
+    .data-counter h1{
+        font-size: 15px;
     }
 }
 
